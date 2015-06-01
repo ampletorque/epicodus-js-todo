@@ -1,0 +1,12 @@
+#show-task {
+  display: none;
+}
+
+.task-delet:hover {
+  text-decoration: underline;
+}
+
+.task-delet {
+  cursor: pointer;
+  color: #0088cc;
+}
